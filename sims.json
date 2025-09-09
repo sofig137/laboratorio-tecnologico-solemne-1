@@ -1,0 +1,320 @@
+[
+    {
+        "titulo":"Sims 4 (Standard Edition)",
+        "fecha":"9/2/2014",
+        "tipo":"Base Game",
+        "precio":0.0
+    },
+    {
+        "titulo":"Sims 4 My Wedding Stories",
+        "fecha":"2/23/2022",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Carnaval Streetwear Kit",
+        "fecha":"2/3/2022",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Modern Menswear Kit",
+        "fecha":"12/2/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Blooming Rooms Kit",
+        "fecha":"11/9/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Incheon Arrivals Kit",
+        "fecha":"10/5/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Fashion Street Kit",
+        "fecha":"10/5/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Industrial Loft Kit",
+        "fecha":"8/26/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Dream Home Decorator",
+        "fecha":"6/1/2021",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Courtyard Oasis Kit",
+        "fecha":"5/18/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Throwback Fit Kit",
+        "fecha":"3/2/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 City Living",
+        "fecha":"11/1/2016",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Cottage Living",
+        "fecha":"7/22/2021",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Country Kitchen Kit",
+        "fecha":"3/2/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Bust the Dust Kit",
+        "fecha":"3/2/2021",
+        "tipo":"Kit",
+        "precio":4.99
+    },
+    {
+        "titulo":"Sims 4 Paranormal Stuff Pack",
+        "fecha":"1/26/2021",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Snowy Escape",
+        "fecha":"11/13/2020",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 STAR WARS: Journey to Batuu Game Pack",
+        "fecha":"9/8/2020",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Nifty Knitting Stuff Pack",
+        "fecha":"7/28/2020",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Eco Lifestyle",
+        "fecha":"6/5/2020",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Discover University",
+        "fecha":"12/15/2019",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Realm of Magic",
+        "fecha":"9/10/2019",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 StrangerVille",
+        "fecha":"2/26/2019",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Tiny Living",
+        "fecha":"1/21/2020",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Island Living",
+        "fecha":"6/21/2019",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Get Famous",
+        "fecha":"11/16/2018",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Seasons",
+        "fecha":"6/22/2018",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Cats & Dogs",
+        "fecha":"11/10/2017",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 My First Pet Stuff",
+        "fecha":"3/13/2018",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Jungle Adventure",
+        "fecha":"2/27/2018",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Laundry Day Stuff",
+        "fecha":"1/16/2018",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Parenthood",
+        "fecha":"5/31/2017",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Get Together",
+        "fecha":"12/8/2015",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Fitness Stuff",
+        "fecha":"6/20/2017",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Get to Work",
+        "fecha":"3/31/2015",
+        "tipo":"Expansion Pack",
+        "precio":39.99
+    },
+    {
+        "titulo":"Sims 4 Vampires",
+        "fecha":"1/24/2017",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Dine Out",
+        "fecha":"6/7/2016",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Toddler Stuff",
+        "fecha":"8/24/2017",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Bowling Night Stuff",
+        "fecha":"3/29/2017",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Backyard Stuff",
+        "fecha":"7/19/2016",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Vintage Glamour",
+        "fecha":"12/6/2016",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Kids Room Stuff",
+        "fecha":"6/28/2016",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Movie Hangout Stuff",
+        "fecha":"1/12/2016",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Spooky Stuff",
+        "fecha":"9/29/2015",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Romantic Garden",
+        "fecha":"2/9/2016",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Outdoor Retreat",
+        "fecha":"1/13/2015",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Spa Day",
+        "fecha":"7/14/2015",
+        "tipo":"Game Pack",
+        "precio":19.99
+    },
+    {
+        "titulo":"Sims 4 Cool Kitchen Stuff",
+        "fecha":"8/11/2015",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Luxury Party Stuff",
+        "fecha":"5/19/2015",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Perfect Patio Stuff",
+        "fecha":"6/16/2015",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    },
+    {
+        "titulo":"Sims 4 Holiday Celebration",
+        "fecha":"12/16/2014",
+        "tipo":"Game Pack",
+        "precio":0.0
+    },
+    {
+        "titulo":"Sims 4 Legacy Edition",
+        "fecha":"8/1/2019",
+        "tipo":"Base Game",
+        "precio":0.0
+    },
+    {
+        "titulo":"Sims 4 Moschino Stuff Pack",
+        "fecha":"8/13/2019",
+        "tipo":"Stuff Pack",
+        "precio":9.99
+    }
+]

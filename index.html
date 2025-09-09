@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sims</title>
+    <style>
+        .chart .dot{
+            opacity: .4;
+            transition: .1s;
+        }
+        .chart .dot:hover{
+            opacity: 1;
+        }
+
+        .titulo-info{
+            width: auto;
+            height: auto;
+            background-color: white;
+            border: 3px solid #a6e329ff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+            opacity: 0;
+            position: absolute;
+            z-index: 3;
+            pointer-events: none;
+            padding: 10px;
+        }
+
+        .titulo-info p{
+            color: black;
+            margin: auto;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <svg width="1000" height="1000">
+        <g class="leyenda" transform="translate(70, 100) scale(0.8)"></g>
+        <g class="chart" transform="translate(85, 80)"></g>
+        <g class="y-axis" transform="translate(100, 300)"></g>
+        <g class="x-axis" transform="translate(80, 750)"></g>
+        <g class="texto" transform="translate(100, 750)"></g>
+    </svg>
+    <script src="./script.js" type="module"></script>
+</body>
+</html>
